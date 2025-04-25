@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Generador de Tickets con Microservicios
 
 ## Descripción
@@ -41,3 +42,4 @@ Este proyecto implementa un sistema generador de tickets utilizando arquitectura
 - Incorporar autenticación para la seguridad del sistema.
 - Implementar orquestación con herramientas como Airflow para procesos más complejos.
 - Evaluar opciones de procesamiento en tiempo real con Kafka.
+=======
