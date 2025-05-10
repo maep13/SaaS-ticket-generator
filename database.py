@@ -20,7 +20,7 @@ class Ticket(Base):
     priority = Column(String, nullable=True)           # Prioridad del ticket (opcional)
 
 # URL de conexión a la base de datos
-DATABASE_URL = "postgresql://postgres:Kronopios_1993@localhost:5432/soporte_tecnico"
+DATABASE_URL = "postgresql://user:password@localhost:5432/soporte_tecnico"
 
 # Motor de la base de datos
 engine = create_engine(DATABASE_URL)
